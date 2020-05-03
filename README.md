@@ -1,3 +1,3 @@
 # Demo Project README
 
-This is sim;le readme file
+This is simple readme file
